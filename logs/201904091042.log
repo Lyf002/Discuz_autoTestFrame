@@ -1,0 +1,167 @@
+2019-04-09 10:42:03,059-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-04-09 10:42:03,059-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-04-09 10:42:06,400-BrowserEngine-INFO-Starting chrome browser.
+2019-04-09 10:42:08,673-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-04-09 10:42:09,832-BrowserEngine-INFO-Maximize the current window.
+2019-04-09 10:42:09,836-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-04-09 10:42:09,906-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('id', 'ls_username')
+2019-04-09 10:42:10,074-BasePage-INFO-输入
+2019-04-09 10:42:10,127-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('id', 'ls_password')
+2019-04-09 10:42:10,276-BasePage-INFO-输入
+2019-04-09 10:42:10,336-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('css selector', '.fastlg_l em')
+2019-04-09 10:42:10,450-BasePage-INFO-点击
+2019-04-09 10:42:18,524-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('css selector', '.vwmy a')
+2019-04-09 10:42:18,584-Flow1-INFO-admin用户登录成功
+2019-04-09 10:42:18,644-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4F09F98>找到页面元素('css selector', '.bm_c h2 a')
+2019-04-09 10:42:19,418-BasePage-INFO-点击
+2019-04-09 10:42:19,640-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4F09F98>找到页面元素('css selector', '.bm_c .pbt input')
+2019-04-09 10:42:20,589-BasePage-INFO-输入
+2019-04-09 10:42:20,794-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4F09F98>找到页面元素('id', 'fastpostmessage')
+2019-04-09 10:42:21,406-BasePage-INFO-输入
+2019-04-09 10:42:21,543-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4F09F98>找到页面元素('id', 'fastpostsubmit')
+2019-04-09 10:42:22,991-BasePage-INFO-点击
+2019-04-09 10:42:23,063-BasePage-INFO-<pageobjects.moren_page.BackTiePage object at 0x00000237A4F09D68>找到页面元素('id', 'fastpostmessage')
+2019-04-09 10:42:23,334-BasePage-INFO-输入
+2019-04-09 10:42:23,452-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('link text', '退出')
+2019-04-09 10:42:24,027-BasePage-INFO-点击
+2019-04-09 10:42:24,051-Flow1-INFO-admin用户退出成功
+2019-04-09 10:42:26,546-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-04-09 10:42:26,546-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-04-09 10:42:30,056-BrowserEngine-INFO-Starting chrome browser.
+2019-04-09 10:42:32,418-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-04-09 10:42:33,602-BrowserEngine-INFO-Maximize the current window.
+2019-04-09 10:42:33,609-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-04-09 10:42:33,713-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('id', 'ls_username')
+2019-04-09 10:42:33,999-BasePage-INFO-输入
+2019-04-09 10:42:34,073-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('id', 'ls_password')
+2019-04-09 10:42:34,284-BasePage-INFO-输入
+2019-04-09 10:42:34,357-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('css selector', '.fastlg_l em')
+2019-04-09 10:42:34,492-BasePage-INFO-点击
+2019-04-09 10:42:42,558-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4F1C4A8>找到页面元素('css selector', '.bm_c h2 a')
+2019-04-09 10:42:43,361-BasePage-INFO-点击
+2019-04-09 10:42:43,446-BasePage-INFO-<pageobjects.moren_page.DelTiePage object at 0x00000237A4F09F98>找到页面元素('name', 'moderate[]')
+2019-04-09 10:42:43,583-BasePage-INFO-点击
+2019-04-09 10:42:44,125-BasePage-INFO-<pageobjects.moren_page.DelTiePage object at 0x00000237A4F09F98>找到页面元素('link text', '删除')
+2019-04-09 10:42:45,049-BasePage-INFO-点击
+2019-04-09 10:42:45,127-BasePage-INFO-<pageobjects.moren_page.DelTiePage object at 0x00000237A4F09F98>找到页面元素('id', 'modsubmit')
+2019-04-09 10:42:46,239-BasePage-INFO-点击
+2019-04-09 10:42:46,370-BasePage-INFO-<pageobjects.manageCenter_page.ManagePage object at 0x00000237A4EEC630>找到页面元素('link text', '管理中心')
+2019-04-09 10:42:46,566-BasePage-INFO-点击
+2019-04-09 10:42:46,584-ManagePage-INFO-Switch to current window successfully
+2019-04-09 10:42:47,700-BasePage-INFO-<pageobjects.manageCenter_page.ManagePage object at 0x00000237A4EEC630>找到页面元素('name', 'admin_password')
+2019-04-09 10:42:47,824-BasePage-INFO-输入
+2019-04-09 10:42:47,875-BasePage-INFO-<pageobjects.manageCenter_page.ManagePage object at 0x00000237A4EEC630>找到页面元素('name', 'submit')
+2019-04-09 10:42:51,081-BasePage-INFO-点击
+2019-04-09 10:43:01,976-BasePage-INFO-截图成功
+2019-04-09 10:43:01,976-BasePage-ERROR-<pageobjects.manageCenter_page.ManagePage object at 0x00000237A4EEC630>页面元素未找到--('name', 'submit')
+2019-04-09 10:43:02,284-BasePage-INFO-截图成功
+2019-04-09 10:43:02,284-BasePage-ERROR-单击失败！
+2019-04-09 10:43:02,354-BasePage-INFO-<pageobjects.manageCenter_page.ManagePage object at 0x00000237A4EEC630>找到页面元素('id', 'header_forum')
+2019-04-09 10:43:02,800-BasePage-INFO-点击
+2019-04-09 10:43:02,902-BasePage-INFO-<pageobjects.manageCenter_page.ManagePage object at 0x00000237A4EEC630>找到页面元素('css selector', '.lastboard .addtr')
+2019-04-09 10:43:03,106-BasePage-INFO-点击
+2019-04-09 10:43:03,172-BasePage-INFO-<pageobjects.manageCenter_page.ManagePage object at 0x00000237A4EEC630>找到页面元素('css selector', '.uinfo p a')
+2019-04-09 10:43:03,751-BasePage-INFO-点击
+2019-04-09 10:43:03,878-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('link text', '退出')
+2019-04-09 10:43:04,248-BasePage-INFO-点击
+2019-04-09 10:43:06,565-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('id', 'ls_username')
+2019-04-09 10:43:06,730-BasePage-INFO-输入
+2019-04-09 10:43:06,795-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('id', 'ls_password')
+2019-04-09 10:43:06,943-BasePage-INFO-输入
+2019-04-09 10:43:07,066-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4EB4898>找到页面元素('css selector', '.fastlg_l em')
+2019-04-09 10:43:07,175-BasePage-INFO-点击
+2019-04-09 10:43:12,239-BasePage-INFO-<pageobjects.manageCenter_page.ManagePage object at 0x00000237A4EEC630>找到页面元素('css selector', '.fl_tb tbody tr:nth-last-child(2) td:nth-last-child(3) h2 a')
+2019-04-09 10:43:12,714-BasePage-INFO-点击
+2019-04-09 10:43:12,858-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4EECB00>找到页面元素('css selector', '.bm_c .pbt input')
+2019-04-09 10:43:13,131-BasePage-INFO-输入
+2019-04-09 10:43:13,208-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4EECB00>找到页面元素('id', 'fastpostmessage')
+2019-04-09 10:43:13,515-BasePage-INFO-输入
+2019-04-09 10:43:13,592-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4EECB00>找到页面元素('id', 'fastpostsubmit')
+2019-04-09 10:43:14,929-BasePage-INFO-点击
+2019-04-09 10:43:15,006-BasePage-INFO-<pageobjects.moren_page.BackTiePage object at 0x00000237A4F1CE80>找到页面元素('id', 'fastpostmessage')
+2019-04-09 10:43:15,258-BasePage-INFO-输入
+2019-04-09 10:43:17,768-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-04-09 10:43:17,768-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-04-09 10:43:20,953-BrowserEngine-INFO-Starting chrome browser.
+2019-04-09 10:43:22,190-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-04-09 10:43:23,371-BrowserEngine-INFO-Maximize the current window.
+2019-04-09 10:43:23,374-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-04-09 10:43:23,443-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F1C278>找到页面元素('id', 'ls_username')
+2019-04-09 10:43:23,640-BasePage-INFO-输入
+2019-04-09 10:43:23,695-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F1C278>找到页面元素('id', 'ls_password')
+2019-04-09 10:43:23,833-BasePage-INFO-输入
+2019-04-09 10:43:23,895-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F1C278>找到页面元素('css selector', '.fastlg_l em')
+2019-04-09 10:43:24,001-BasePage-INFO-点击
+2019-04-09 10:43:32,072-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F1C278>找到页面元素('css selector', '.vwmy a')
+2019-04-09 10:43:32,122-Flow3-INFO-admin用户登录成功
+2019-04-09 10:43:32,182-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000237A4F4A898>找到页面元素('id', 'scbar_txt')
+2019-04-09 10:43:32,259-BasePage-INFO-清除搜索框内容
+2019-04-09 10:43:32,287-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000237A4F4A898>找到页面元素('id', 'scbar_txt')
+2019-04-09 10:43:32,419-BasePage-INFO-输入
+2019-04-09 10:43:32,469-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000237A4F4A898>找到页面元素('css selector', '.scbar_btn_td .pn')
+2019-04-09 10:43:32,639-BasePage-INFO-点击
+2019-04-09 10:43:33,724-Flow3-INFO-搜索 - Discuz! Board - Powered by Discuz!页面跳转成功
+2019-04-09 10:43:33,794-BasePage-INFO-<pageobjects.homepage.HomePage object at 0x00000237A4F4A898>找到页面元素('css selector', '.xs3 a strong font')
+2019-04-09 10:43:33,983-BasePage-INFO-点击
+2019-04-09 10:43:35,117-Flow3-INFO-haotest - 默认版块 - Discuz! Board - Powered by Discuz!页面跳转成功
+2019-04-09 10:43:35,199-BasePage-INFO-<pageobjects.base.BasePage object at 0x00000237A4F1C4A8>找到页面元素('id', 'thread_subject')
+2019-04-09 10:43:35,253-Flow3-INFO-帖子搜索成功
+2019-04-09 10:43:35,414-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F1C278>找到页面元素('link text', '退出')
+2019-04-09 10:43:35,892-BasePage-INFO-点击
+2019-04-09 10:43:39,258-BrowserEngine-INFO-您已经选择了Chrome浏览器
+2019-04-09 10:43:39,258-BrowserEngine-INFO-The test Server is:http://127.0.0.1/forum.php 
+2019-04-09 10:43:43,050-BrowserEngine-INFO-Starting chrome browser.
+2019-04-09 10:43:43,804-BrowserEngine-INFO-Open url:http://127.0.0.1/forum.php
+2019-04-09 10:43:44,969-BrowserEngine-INFO-Maximize the current window.
+2019-04-09 10:43:44,972-BrowserEngine-INFO-Set implicitly wait 10 seconds.
+2019-04-09 10:43:45,028-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F4A710>找到页面元素('id', 'ls_username')
+2019-04-09 10:43:45,195-BasePage-INFO-输入
+2019-04-09 10:43:45,247-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F4A710>找到页面元素('id', 'ls_password')
+2019-04-09 10:43:45,405-BasePage-INFO-输入
+2019-04-09 10:43:45,463-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F4A710>找到页面元素('css selector', '.fastlg_l em')
+2019-04-09 10:43:45,601-BasePage-INFO-点击
+2019-04-09 10:43:53,672-BasePage-INFO-<pageobjects.login_page.loginPage object at 0x00000237A4F4A710>找到页面元素('css selector', '.vwmy a')
+2019-04-09 10:43:53,732-Flow4-INFO-admin用户登录成功
+2019-04-09 10:43:53,792-BasePage-INFO-<pageobjects.moren_page.SendTiePage object at 0x00000237A4F1C278>找到页面元素('css selector', '.bm_c h2 a')
+2019-04-09 10:43:54,539-BasePage-INFO-点击
+2019-04-09 10:43:54,753-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('id', 'newspecial')
+2019-04-09 10:43:55,631-BasePage-INFO-点击
+2019-04-09 10:43:55,696-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.mbw li:nth-last-child(1) a')
+2019-04-09 10:43:56,544-BasePage-INFO-点击
+2019-04-09 10:43:56,747-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('id', 'subject')
+2019-04-09 10:43:56,923-BasePage-INFO-输入
+2019-04-09 10:43:56,980-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.mbm p:nth-child(1) input')
+2019-04-09 10:43:57,176-BasePage-INFO-输入
+2019-04-09 10:43:57,280-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.mbm p:nth-child(2) input')
+2019-04-09 10:43:57,500-BasePage-INFO-输入
+2019-04-09 10:43:57,590-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.mbm p:nth-child(3) input')
+2019-04-09 10:43:57,787-BasePage-INFO-输入
+2019-04-09 10:43:57,910-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', 'body')
+2019-04-09 10:43:58,169-BasePage-INFO-输入
+2019-04-09 10:43:58,244-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('id', 'postsubmit')
+2019-04-09 10:43:58,457-BasePage-INFO-点击
+2019-04-09 10:43:59,738-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.pcht tbody tr:nth-child(1)  .pslt input')
+2019-04-09 10:43:59,952-BasePage-INFO-点击
+2019-04-09 10:44:00,058-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.pn span')
+2019-04-09 10:44:00,990-BasePage-INFO-点击
+2019-04-09 10:44:01,103-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.pcht tbody tr:nth-child(1) .pvt label')
+2019-04-09 10:44:01,165-SendTiePage-INFO-投票选项1标题：1.  小明
+2019-04-09 10:44:01,165-SendTiePage-INFO-投票选项1标题：1.  小明
+2019-04-09 10:44:01,219-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.pcht tbody tr:nth-child(3) .pvt label')
+2019-04-09 10:44:01,274-SendTiePage-INFO-投票选项2标题：2.  小红
+2019-04-09 10:44:01,274-SendTiePage-INFO-投票选项2标题：2.  小红
+2019-04-09 10:44:01,338-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.pcht tbody tr:nth-child(5) .pvt label')
+2019-04-09 10:44:01,387-SendTiePage-INFO-投票选项3标题：3.  小白
+2019-04-09 10:44:01,387-SendTiePage-INFO-投票选项3标题：3.  小白
+2019-04-09 10:44:01,442-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.pcht tbody tr:nth-child(2) td:nth-last-child(1)')
+2019-04-09 10:44:01,492-SendTiePage-INFO-投票选项1比例：100.00% (1)
+2019-04-09 10:44:01,492-SendTiePage-INFO-投票选项1比例：100.00% (1)
+2019-04-09 10:44:01,546-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.pcht tbody tr:nth-child(4) td:nth-last-child(1)')
+2019-04-09 10:44:01,589-SendTiePage-INFO-投票选项2比例：0.00% (0)
+2019-04-09 10:44:01,589-SendTiePage-INFO-投票选项2比例：0.00% (0)
+2019-04-09 10:44:01,649-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.pcht tbody tr:nth-child(6) td:nth-last-child(1)')
+2019-04-09 10:44:01,702-SendTiePage-INFO-投票选项3比例：0.00% (0)
+2019-04-09 10:44:01,702-SendTiePage-INFO-投票选项3比例：0.00% (0)
+2019-04-09 10:44:01,762-BasePage-INFO-<pageobjects.vote_page.VotePage object at 0x00000237A4F4AB70>找到页面元素('css selector', '.vwthd .ts span')
+2019-04-09 10:44:01,802-SendTiePage-INFO-投票标题：选班长
+2019-04-09 10:44:01,802-SendTiePage-INFO-投票标题：选班长
